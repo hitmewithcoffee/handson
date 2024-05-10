@@ -1,0 +1,29 @@
+/*
+h1 {
+    color: white;
+    background-color: hotpink;
+
+    text-align: center;
+    border: 5px greenyellow dotted;
+
+    margin-bottom: 30px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+*/
+
+h1 {
+    color:blueviolet
+    
+}
+
+.title {
+    background-color: gray;
+}
+
+#important {
+    color:blue
+}
